@@ -19,8 +19,6 @@ height:90,
 paddingTop: 36,
 backgroundColor: '#f7287b',
 alignItems:'center',
-justifyContent: 'center',
-
 
 },
 
