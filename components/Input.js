@@ -12,7 +12,7 @@ input:{
     borderBottomColor:'grey',
     borderBottomWidth:1,
     marginVertical:10,
-    
+    color:'yellow'
 }
 
 }); 
